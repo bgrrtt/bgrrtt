@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+HINT: **`<username>/<username>`** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 <!--
 **bgrrtt/bgrrtt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on [zimfw](https://github.com/zimfw) and [craftcms](https://github.com/craftcms) plugins.
+- 🌱 I’m currently learning [yii](https://github.com/yiisoft), [go](https://github.com/golang), [kubernetes](https://github.com/kubernetes) and [roadrunner](https://github.com/spiral/roadrunner).
+- 💬 Ask me about [zimfw](https://github.com/zimfw) or [craftcms](https://github.com/craftcms).
+- ⚡ Fun fact: highest altitude reached on foot [17,769 ft](https://en.wikipedia.org/wiki/Thorong_La).

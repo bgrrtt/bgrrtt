@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <!-- 
-- 🔭 I’m currently working on [zimfw](https://github.com/zimfw) and [craftcms](https://github.com/craftcms) plugins.
--->
-
 - 👨‍💻 I’m currently working with the team at [mightyinthemidwest](https://github.com/mightyinthemidwest).
 - 🌱 I’m currently learning [yii](https://github.com/yiisoft) and [kubernetes](https://github.com/kubernetes).
+-->
+
+- 🔭 I’m currently working on [zimfw](https://github.com/zimfw) and [craftcms](https://github.com/craftcms) plugins.
 - 💬 Ask me about my [dotfiles](https://github.com/bgrrtt/dotfiles)!
 - ⚡ Highest altitude reached on foot: [17,769 ft](https://en.wikipedia.org/wiki/Thorong_La).

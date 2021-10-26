@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [zimfw](https://github.com/zimfw), [neovim](https://github.com/neovim), and [craftcms](https://github.com/craftcms) plugins.
 -->
 
-- 👨‍💻 I’m currently working with the team at [mightyinthemidwest](https://github.com/mightyinthemidwest).
-- 🌱 I’m currently learning [yii](https://github.com/yiisoft) and [lua](https://github.com/lua/lua).
+- 👨‍💻 I’m currently working with the team at [Mighty](https://github.com/mightyinthemidwest), most often with [Craft CMS](https://github.com/craftcms).
+- 🌱 I’m currently learning [yii](https://github.com/yiisoft) (better) and [lua](https://github.com/lua/lua).
 - 💬 Ask me about my [dotfiles](https://github.com/bgrrtt/dotfiles)!
-- ⚡ Fun fact: I've reached the altitude [17,769 ft](https://en.wikipedia.org/wiki/Thorong_La) on foot.
+- ⚡ Fun fact: I've reached the altitude of [17,769 ft](https://en.wikipedia.org/wiki/Thorong_La) on foot.

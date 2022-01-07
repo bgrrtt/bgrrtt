@@ -31,6 +31,9 @@ Here are some ideas to get you started:
 |----|----|
 |  [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=bgrrtt&layout=wide&show_reply=false&show_retweet=true)](https://twitter.com/bgrrtt) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bgrrtt&count_private=true&show_icons=true)](https://github.com/bgrrtt) |
 | | <a href="https://github.com/bgrrtt"><img style="width:100%;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgrrtt&layout=compact" /></a> |
+
+https://github-profile-trophy.vercel.app/?username=bgrrtt&margin-w=18&margin-h=18&column=4
 -->
+<!-- ![adf](https://github-profile-trophy.vercel.app/?username=bgrrtt&margin-w=18&margin-h=18&column=4) -->
 
 [![](https://komarev.com/ghpvc/?username=bgrrtt)](https://github.com/bgrrtt)

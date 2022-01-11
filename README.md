@@ -36,4 +36,4 @@ https://github-profile-trophy.vercel.app/?username=bgrrtt&margin-w=18&margin-h=1
 -->
 <!-- ![adf](https://github-profile-trophy.vercel.app/?username=bgrrtt&margin-w=18&margin-h=18&column=4) -->
 
-[![](https://komarev.com/ghpvc/?username=bgrrtt)](https://github.com/bgrrtt)
+<!-- [![](https://komarev.com/ghpvc/?username=bgrrtt)](https://github.com/bgrrtt) -->

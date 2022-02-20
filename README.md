@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 <!-- - 👾 I contribute to and help maintain the [Zim Framework](https://github.com/zimfw) for Z shell. -->
 
 - 👨‍💻 I work at [Mighty](https://github.com/mightyinthemidwest), most often with [Craft CMS](https://github.com/craftcms).
-- 🌱 I’m currently learning [yii](https://github.com/yiisoft) (better) and [lua](https://github.com/lua/lua).
+- 🌱 I’m currently learning [yii](https://github.com/yiisoft) (better), [go](https://github.com/golang/go) (as needed), and [lua](https://github.com/lua/lua) (slowly).
+- 👾 I contribute to the [Zim Framework](https://github.com/zimfw) for Z shell.
 - 💬 Ask me about my [dotfiles](https://github.com/bgrrtt/dotfiles)!
-- ⚡ Fun fact: I've reached the altitude of [17,769 ft](https://en.wikipedia.org/wiki/Thorong_La) on foot.
+- ⚡ Fun fact: I've reached the altitude of [17,769 ft](https://en.wikipedia.org/wiki/Annapurna_Circuit) on foot.
 
 <br>
 

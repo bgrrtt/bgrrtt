@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bgrrtt&layout=compact&langs_count=5)](https://github.com/bgrrtt)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bgrrtt&layout=compact&langs_count=5)](https://github.com/bgrrtt) -->
 
 <!--
 |    |    |

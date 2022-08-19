@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about my [dotfiles](https://github.com/bgrrtt/dotfiles)!
 - ⚡ Fun fact: I've reached the altitude of [17,769 ft](https://en.wikipedia.org/wiki/Annapurna_Circuit) on foot.
 
-<br>
+<!-- <br> --> 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bgrrtt&layout=compact&langs_count=5)](https://github.com/bgrrtt) -->
 
